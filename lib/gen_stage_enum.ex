@@ -1,0 +1,2 @@
+defmodule GenStageEnum do
+end

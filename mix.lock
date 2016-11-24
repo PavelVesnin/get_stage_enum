@@ -1,0 +1,3 @@
+%{"bson": {:hex, :bson, "0.4.4", "175ad645cc492349a4cefa0bdff612178a0db611adf38dabe2bbfad2aa25627a", [:mix], []},
+  "bsoneach": {:hex, :bsoneach, "0.4.0", "da2d8495a82a9b5165152c90614997c217869752a092b8e65e80d6847e7d77ba", [:mix], []},
+  "gen_stage": {:hex, :gen_stage, "0.9.0", "9daf0b5ae224405e0456b7df5a282a9a958176cdb9b963811ca38140e7e1b3c4", [:mix], []}}
